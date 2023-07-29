@@ -23,6 +23,12 @@ Qualquer feedback, comentário ou sugestão é bem-vindo! Sinta-se à vontade pa
 
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,postman,bootstrap,git,html,figma)](https://skillicons.dev)
 
+## 🎨 Foto inicial do projeto no figma
+
+<div>
+  <img src="./assets/img/foto.jpg">
+</div>
+
 ## 💻 Como Rodar o Projeto (Quando Concluído)
 
 Para rodar este projeto, você precisará ter o PHP e o MySQL instalados em seu ambiente.
